@@ -122,7 +122,7 @@
 
 ###
 
-<h6 align="left">Email:     machinelearningwithluqman@gmail.com</h6>
+<h6 align="left"> machinelearningwithluqman@gmail.com</h6>
 
 ###
 
